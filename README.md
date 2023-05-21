@@ -1,2 +1,2 @@
-# MindSpaceInc-Libraries
+# MindSpaceInc-Galaxy-Libraries
 Complied libraries
